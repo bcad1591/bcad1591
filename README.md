@@ -1,5 +1,22 @@
-### Hi there 👋
+### 🥤 Cola
 
+Junior web front-end developer.
+
+### 💻 Tech
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) 
+
+<!--
+### 📝 Recode
+
+[![bcad1591's github stats](https://github-readme-stats.vercel.app/api?username=bcad1591)](https://github.com/anuraghazra/github-readme-stats)  
+
+![solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bcad1591)
+
+-->
+
+### 📫  How to reach me
+[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcad1591@gmail.com)](mailto:bcad1591@gmail.com) **bcad1591@gmail.com**
 <!--
 **bcad1591/bcad1591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
