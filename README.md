@@ -4,7 +4,7 @@ Junior web front-end developer.
 
 ### 💻 Tech
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) 
 
 ### 📫  How to reach me
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bcad1591@gmail.com)](mailto:bcad1591@gmail.com) **bcad1591@gmail.com**
