@@ -1,6 +1,6 @@
-### 🥤 Cola
+### 🥤 mjsdo
 
-Junior web front-end developer.
+Hi i'm front-end developer.
 
 ### 💻 Tech
 
